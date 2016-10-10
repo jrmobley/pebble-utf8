@@ -1,0 +1,26 @@
+{
+    "name": "pebble-utf8",
+    "author": "JR Mobley",
+    "version": "1.0.0",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/jrmobley/pebble-utf8.git"
+    },
+    "files": ["dist.zip"],
+    "keywords": ["pebble-package"],
+    "dependencies": {},
+    "pebble": {
+        "projectType": "package",
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
+        "resources": {
+            "media": []
+        }
+    }
+}
