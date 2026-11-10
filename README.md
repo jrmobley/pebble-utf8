@@ -1,5 +1,7 @@
 # pebble-utf8
 
+Notice: this codebase will no longer be updated.
+
 Functions for working with UTF-8 strings.
 
     uint16_t utf8_decode_byte(uint8_t byte, uint16_t* state, uint16_t* cp);
